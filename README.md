@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @smltrs0
-- 👀 I’m interested in learning how things work
-- 🌱 I’m currently learning php and javascript more deeply
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 smltrs0/smltrs0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,22 +13,20 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["VueJs", "Angular"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         java: ["Spring"],
+         php: ["Laravel"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["last year student..."],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
