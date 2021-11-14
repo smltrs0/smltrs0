@@ -17,14 +17,14 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["VueJs", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Bootstrap", "Bulma", "Material Design", "Semantic UI"]
       },
       backEnd: {
          php: ["Laravel"],
          js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash", "Puppeteer", "Selenium"]
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["mySQL", "mariadb"],
    },
    currentOccupation: ["last year student..."],
    challenge: "I'm working towards being able to run a marathon.",
