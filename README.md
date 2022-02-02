@@ -22,7 +22,7 @@ const aboutMe = {
       backEnd: {
          php: ["Laravel"],
          js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium"]
+         misc: ["SCRUM", "SOAP", "Selenium"]
       },
       databases: ["mySQL", "mariadb"],
    },
