@@ -16,15 +16,15 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
-         js: ["VueJs", "Angular"],
+         js: ["VueJs", "Angular", "Reactjs", "nexjs"],
          css: ["Bootstrap", "Bulma", "Material Design", "Semantic UI"]
       },
       backEnd: {
          php: ["Laravel"],
          js: ["Node", "Express"],
-         misc: ["SCRUM", "SOAP", "Selenium"]
+         misc: ["SCRUM", "SOAP"]
       },
-      databases: ["mySQL", "mariadb"],
+      databases: ["mySQL", "mariadb", "mongodb"],
    },
    currentOccupation: ["last year student..."],
    challenge: "I'm working towards being able to run a marathon.",
