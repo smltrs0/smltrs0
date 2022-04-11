@@ -3,7 +3,7 @@ smltrs0/smltrs0 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/> -->
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
 <!-- <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br> -->
@@ -13,21 +13,21 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["VueJs", "Angular", "Reactjs", "nexjs"],
-         css: ["Bootstrap", "Bulma", "Material Design", "Semantic UI"]
+         css: ["Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
          php: ["Laravel"],
          js: ["Node", "Express"],
-         misc: ["SCRUM", "SOAP"]
+         misc: ["SCRUM", "SOAP", "API RES"]
       },
       databases: ["mySQL", "mariadb", "mongodb"],
    },
    currentOccupation: ["last year student..."],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "Graduate awaiting delivery of degree.",
 };
 ```
 </br></br>
@@ -36,5 +36,3 @@ const aboutMe = {
 <!-- ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 ---
-
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
