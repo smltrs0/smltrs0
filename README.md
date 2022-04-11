@@ -16,7 +16,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["VueJs", "Angular", "Reactjs", "nexjs"],
+         js: ["Vanillajs", "VueJs", "Angular", "Reactjs", "nexjs"],
          css: ["Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
@@ -26,8 +26,8 @@ const aboutMe = {
       },
       databases: ["mySQL", "mariadb", "mongodb"],
    },
-   currentOccupation: ["last year student..."],
-   challenge: "Graduate awaiting delivery of degree.",
+   currentOccupation: ["working in a suplos"],
+   challenge: "Graduate awaiting delivery of degree. ^-^",
 };
 ```
 </br></br>
