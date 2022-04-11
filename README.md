@@ -3,7 +3,7 @@ smltrs0/smltrs0 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://github.com/smltrs0/smltrs0/blob/main/Banner.jpg"/>
 
 
 <!-- <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br> -->
