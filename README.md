@@ -11,24 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["Vanillajs", "VueJs", "Angular", "Reactjs", "nexjs"],
-         css: ["Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         php: ["Laravel"],
-         js: ["Node", "Express"],
-         misc: ["SCRUM", "SOAP", "API RES"]
-      },
-      databases: ["mySQL", "mariadb", "mongodb"],
-   },
-   currentOccupation: ["working in a suplos"],
-   challenge: "Graduate awaiting delivery of degree. ^-^",
-};
+const aboutMePage =  samueltrias.dev
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
