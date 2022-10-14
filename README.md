@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smltrs0)](https://samueltrias.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smltrs0&theme=radical)](https://samueltrias.dev)
 
 ---
