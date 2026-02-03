@@ -51,20 +51,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smltrs0&theme=radical" alt="GitHub Profile Summary" />
+![](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smltrs0&theme=radical" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smltrs0&theme=radical" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smltrs0&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies | Logros
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=smltrs0&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-streak-stats.herokuapp.com/?user=smltrs0&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -92,7 +83,7 @@ Sistema de administración de citas y pacientes médicos odontológicos.
 ### 📚 CMS Librería Alfalibros
 CMS para control de inventario y ventas online (open source).
 
-> _Inventory control and online sales CMS (open source)._ 
+> _Inventory control and online sales CMS (open source)._  
 
 **Tech Stack:**
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -127,16 +118,6 @@ Previous:
      └─ 2019 - 2020
      └─ Custom software solutions and system maintenance
 ```
-
----
-
-## 📈 Activity Graph | Gráfico de Actividad
-
-<div align="center">
-
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smltrs0&theme=react-dark&hide_border=true&area=true)](https://github.com/smltrs0)
-
-</div>
 
 ---
 
