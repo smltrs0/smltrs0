@@ -5,12 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br> -->
 
-[samueltrias.dev](www.samueltrias.dev)
+[samueltrias.dev](https://samueltrias.dev)
 
-</br></br>
+</br>
+
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&theme=radical) 
+![smltrs0's github stats](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smltrs0&theme=radical)](https://samueltrias.dev)
 
