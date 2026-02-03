@@ -51,11 +51,20 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=smltrs0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smltrs0&theme=radical" alt="GitHub Profile Summary" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smltrs0&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smltrs0&theme=radical" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smltrs0&theme=radical" alt="Top Languages" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=smltrs0&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+## 🏆 GitHub Trophies | Logros
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=smltrs0&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -83,7 +92,7 @@ Sistema de administración de citas y pacientes médicos odontológicos.
 ### 📚 CMS Librería Alfalibros
 CMS para control de inventario y ventas online (open source).
 
-> _Inventory control and online sales CMS (open source)._  
+> _Inventory control and online sales CMS (open source)._
 
 **Tech Stack:**
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -108,40 +117,12 @@ Current:
 Previous:
   🔹 Technical Lead CE Area @ Suplos (Intelcost)
      └─ Sep 2022 - Sep 2024
-     └─ Led customer experience technical team  
+     └─ Led customer experience technical team
   
   🔹 Support & Development Engineer @ Suplos (Intelcost)
      └─ Oct 2020 - Sep 2022
-     └─ Implemented improvements and provided operational support  
+     └─ Implemented improvements and provided operational support
   
   🔹 Freelance Software Engineer
      └─ 2019 - 2020
      └─ Custom software solutions and system maintenance
-```
-
----
-
-## 📫 Let's Connect | Conectemos
-
-<div align="center">
-
-### 💬 Open to collaborate on interesting projects | Abierto a colaborar en proyectos interesantes
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://smltrs0.github.io/basic-profile-senor-develop/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:smltrs0@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/smltrs0)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 _"Passionate about simplicity, driven by quality"_
-### 💡 _"Apasionado por la simplicidad, guiado por la calidad"_
-
-![Profile Views](https://komarev.com/ghpvc/?username=smltrs0&color=blueviolet&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/smltrs0?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/smltrs0?style=social)
-
-</div>
