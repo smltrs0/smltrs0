@@ -5,7 +5,7 @@
 ### 🚀 Software Developer | Tech Enthusiast | Development Lead
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-smltrs0.github.io-blue?style=for-the-badge&logo=github)](https://smltrs0.github.io/basic-profile-senor-develop/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuel-trias/)
 [![Email](https://img.shields.io/badge/Email-smltrs0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smltrs0@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bogotá%2C%20Colombia-green?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
